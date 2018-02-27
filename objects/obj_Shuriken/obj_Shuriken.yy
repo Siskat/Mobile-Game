@@ -2,7 +2,7 @@
     "id": "0eb01d03-aba9-4ddd-af79-f18ceaac6a28",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Shuriken",
+    "name": "obj_shuriken",
     "eventList": [
         {
             "id": "d0542cf8-c11f-42d5-8909-ac0292ffc4d0",
@@ -22,6 +22,16 @@
             "collisionObjectId": "70924acb-3045-443f-88bf-926a11733ab8",
             "enumb": 0,
             "eventtype": 4,
+            "m_owner": "0eb01d03-aba9-4ddd-af79-f18ceaac6a28"
+        },
+        {
+            "id": "2e308c08-6233-48a3-a58b-95bbb6c01518",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "0eb01d03-aba9-4ddd-af79-f18ceaac6a28"
         }
     ],
